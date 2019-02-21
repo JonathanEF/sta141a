@@ -1,7 +1,10 @@
 # sta141a
 
 ## Assignment 6 - Classifying Hand Written Digits
-
+The purpose of the assignment is to practice implementing a
+real statistical algorithm in a way that uses CPU and memory efficiently. Part of your
+grade will depend on the correctness and efficiency of your code. Your grade
+will NOT depend on the error rate of your model.
 
 ## Assignment 5 - Craigslist Analysis
 Clean and extract features from a messy, expanded version of the Craigslist data set. 
