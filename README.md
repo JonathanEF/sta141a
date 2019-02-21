@@ -1,4 +1,4 @@
-# sta141a
+# STA 141A Projects
 
 ## Assignment 6 - Classifying Hand Written Digits
 The purpose of the assignment is to practice implementing a
